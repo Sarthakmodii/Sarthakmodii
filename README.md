@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sarthakmodii
 - 👀 I’m interested in posting 
 - 🌱 I’m currently learning AIML
-- 💞️ I’m looking to collaborate on INFOSYS 
+- 💞️ I’m looking to Connect with YOU
 - 📫 How to reach me 📬 MAIL ME 
 
 <!---
