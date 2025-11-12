@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on: **TECHIVO an AI based WEB-APP for virtual shopping**
 - 🌱 Learning: **Deep Learning, TensorFlow, PyTorch, MLOps**
-- 📫 Reach me at: **sarthakmodi.official@gmail.com**
+- 📫 Reach me at: **sarthakmodi2@gmail.com**
 - 🧠 I love to solve problems and build useful tech.
 - ⚡ Fun fact: I debug before I dream 😄
 
