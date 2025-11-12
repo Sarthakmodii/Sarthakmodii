@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarthak Modi</h1>
-<h3 align="center">🎓 AI & ML | 3rd Year B.Tech CSE | Passionate Developer & Problem Solver</h3>
+<h3 align="center">🎓 AI & ML |   4th Year B.Tech CSE | Passionate Developer & Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SarthakModi&label=Profile%20views&color=0e75b6&style=flat" alt="SarthakModi" />
