@@ -1,74 +1,151 @@
-<h1 align="center">Hi 👋, I'm Sarthak Modi</h1>
-<h3 align="center">🎓 AI & ML |   4th Year B.Tech CSE | Passionate Developer & Problem Solver</h3>
+<!--💬 TYPING HEADER -->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Namaste+🙏,+I'm+Sarthak+Modi;AI+%2F+ML+Developer;Computer+Science+Student;Building+AI+Agents+and+ML+Systems;Always+Learning+New+Technologies" />
+</p>
+
+---
+
+# 👨‍💻 Sarthak Modi
+
+🎓 **B.Tech Computer Science (AI & ML)**  
+Shri Vaishnav Vidyapeeth Vishwavidyalaya – Indore  
+
+🚀 **AI Developer | ML Enthusiast | Problem Solver**
+
+---
+
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
+
+## 🧠 About Me
+
+- 🤖 Passionate about **Artificial Intelligence & Machine Learning**
+- 🧑‍💻 Skilled in **Python, C++, Java, SQL**
+- ⚡ Interested in **AI Agents, Deep Learning, and MLOps**
+- 🚀 Building **real-world AI projects**
+- 📊 Love working on **data, ML models, and intelligent systems**
+
+---
+
+# 🚀 Current Focus
+
+✔ AI Agent Development  
+✔ Deep Learning Projects  
+✔ MLOps & AI Deployment  
+✔ Real-time AI Applications  
+
+---
+
+# 🛠 Tech Stack
+
+### 👨‍💻 Programming
+- Python
+- C++
+- Java
+- SQL
+
+### 🤖 AI / Machine Learning
+- TensorFlow
+- PyTorch
+- Scikit-learn
+- OpenCV
+- Pandas
+- NumPy
+
+### ☁️ DevOps / Cloud
+- Docker
+- WSL2
+- Git
+- GitHub
+- Azure ML
+
+### 🌐 Development
+- React
+- Node.js
+- Streamlit
+- REST APIs
+
+---
+
+# 📂 Featured Projects
+
+### 🤖 AI Agent System
+Autonomous AI agent capable of API interaction, reasoning, and automation.
+
+### 🍎 Fruit Image Classifier
+CNN-based deep learning system to classify fruits using image datasets.
+
+### 📊 Data Mining Experiments
+Implemented clustering, classification, and association rule mining algorithms.
+
+### 🚗 AI Data Analysis Dashboard
+Machine learning analytics system for data visualization and insights.
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SarthakModi&label=Profile%20views&color=0e75b6&style=flat" alt="SarthakModi" />
+<img src="https://github-readme-stats.vercel.app/api?username=sarthakmodii&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-### 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on: **TECHIVO an AI based WEB-APP for virtual shopping**
-- 🌱 Learning: **Deep Learning, TensorFlow, PyTorch, MLOps**
-- 📫 Reach me at: **sarthakmodi2@gmail.com**
-- 🧠 I love to solve problems and build useful tech.
-- ⚡ Fun fact: I debug before I dream 😄
-
----
-
-### 🚀 Tech Stack & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
-
----
-
-### 📌 Pinned Projects
-
-> You can pin these after creating the profile README:
-
-- 🔍 **Fruit Image Classifier** — Custom teachable machine-like image classifier using CNNs & TensorFlow
-- 📊 **Data Mining Experiments** — Apriori, k-means, Decision Trees with Python & WEKA
-- 🤖 **Sentiment Analyzer** — Deep Learning model with Keras for Twitter data
-- 🎯 **House Price Predictor** — Regression model using TensorFlow
-- 🧠 **Noise Reduction CNN** — Denoising image project using Autoencoders
-- 📈 **AI Resume Ranker** — ML project ranking resumes for job relevance *(optional)*
-
----
-
-### 📊 GitHub Stats
+# 🔥 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SarthakModi&show_icons=true&theme=tokyonight" alt="Sarthak GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SarthakModi&theme=tokyonight" alt="Sarthak GitHub streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakmodii&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+# 📊 GitHub Streak
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SarthakModi&theme=algolia&margin-w=15" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakmodii&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-### 🌐 Connect with Me
+# 📈 Contribution Graph
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sarthak-modii/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:sarthakmodi2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthakmodii&theme=github-dark"/>
 </p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+💡 My code =  
+40% ☕ Coffee  
+30% 🤖 AI  
+20% 💡 StackOverflow  
+10% 🧠 Genius Idea  
+
+---
+
+# 👀 Visitor Count
+
+<p align="center">
+<img src="https://count.getloli.com/@sarthakmodii?name=sarthakmodii&theme=green&darkmode=1">
+</p>
+
+---
+
+⭐ **Always learning, always building intelligent systems.**
