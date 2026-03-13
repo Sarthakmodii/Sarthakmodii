@@ -1,91 +1,86 @@
-<!--💬 TYPING HEADER -->
+<!-- TYPING HEADER -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Namaste+🙏,+I'm+Sarthak+Modi;AI+%2F+ML+Developer;Computer+Science+Student;Building+AI+Agents+and+ML+Systems;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?lines=Namaste+🙏+I'm+Sarthak+Modi;AI+%2F+ML+Developer;Final+Year+B.Tech+CSE+(AI+%26+ML)+Student;Building+AI+Projects+%26+Agents&font=Fira+Code&center=true&width=500&height=45&color=00F7FF&vCenter=true&size=22">
 </p>
 
 ---
 
-# 👨‍💻 Sarthak Modi
+# 👋 Hello World, I'm Sarthak Modi
 
-🎓 **B.Tech Computer Science (AI & ML)**  
-Shri Vaishnav Vidyapeeth Vishwavidyalaya – Indore  
+🎓 **Final Year B.Tech Student (AI & ML)**  
+🏫 Shri Vaishnav Vidyapeeth Vishwavidyalaya, Indore  
 
-🚀 **AI Developer | ML Enthusiast | Problem Solver**
+💻 **AI/ML Developer | Python Developer | Problem Solver**
+
+I love building **AI systems, Machine Learning models, and intelligent applications** that solve real-world problems.
 
 ---
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
 
-## 🧠 About Me
+## 🚀 About Me
 
 - 🤖 Passionate about **Artificial Intelligence & Machine Learning**
-- 🧑‍💻 Skilled in **Python, C++, Java, SQL**
-- ⚡ Interested in **AI Agents, Deep Learning, and MLOps**
-- 🚀 Building **real-world AI projects**
-- 📊 Love working on **data, ML models, and intelligent systems**
+- 🧠 Currently learning **AI Agents & MLOps**
+- 💻 Skilled in **Python, C++, Java, SQL**
+- ⚡ Working with **TensorFlow, PyTorch, Streamlit**
+- 🐳 Learning **Docker, WSL2, Cloud AI Systems**
+- 🛠 Building **real-world AI projects**
 
 ---
 
-# 🚀 Current Focus
+# 💻 Tech Stack
 
-✔ AI Agent Development  
-✔ Deep Learning Projects  
-✔ MLOps & AI Deployment  
-✔ Real-time AI Applications  
-
----
-
-# 🛠 Tech Stack
-
-### 👨‍💻 Programming
-- Python
-- C++
-- Java
-- SQL
+### 👨‍💻 Programming Languages
+<p>
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="60">
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="60">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="60">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="60">
+</p>
 
 ### 🤖 AI / Machine Learning
-- TensorFlow
-- PyTorch
-- Scikit-learn
-- OpenCV
-- Pandas
-- NumPy
+<p>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" width="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50">
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="50">
+</p>
 
-### ☁️ DevOps / Cloud
-- Docker
-- WSL2
-- Git
-- GitHub
-- Azure ML
-
-### 🌐 Development
-- React
-- Node.js
-- Streamlit
-- REST APIs
+### ☁️ Tools & Technologies
+<p>
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="50">
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="50">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50">
+<img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="50">
+</p>
 
 ---
 
-# 📂 Featured Projects
+# 📂 Current Projects
 
-### 🤖 AI Agent System
-Autonomous AI agent capable of API interaction, reasoning, and automation.
+🚀 **AI Agent System**  
+Building intelligent AI agents capable of reasoning and executing tasks.
 
-### 🍎 Fruit Image Classifier
-CNN-based deep learning system to classify fruits using image datasets.
+🍎 **Fruit Classification Model**  
+Deep learning model that classifies fruits using CNN.
 
-### 📊 Data Mining Experiments
-Implemented clustering, classification, and association rule mining algorithms.
+📊 **Data Mining Experiments**  
+Clustering, classification, and association rule mining projects.
 
-### 🚗 AI Data Analysis Dashboard
-Machine learning analytics system for data visualization and insights.
+🤖 **Real-Time AI Applications**  
+Developing ML-powered real-time tools and systems.
 
 ---
 
 # 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sarthakmodii&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=sarthakmodii&show_icons=true&theme=tokyonight&hide_border=true">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakmodii&theme=tokyonight&hide_border=true">
+
 </p>
 
 ---
@@ -93,59 +88,41 @@ Machine learning analytics system for data visualization and insights.
 # 🔥 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakmodii&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakmodii&layout=compact&theme=tokyonight&hide_border=true">
 </p>
 
 ---
 
-# 📊 GitHub Streak
+# 📊 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakmodii&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthakmodii&theme=github-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthakmodii&theme=tokyo-night&hide_border=true">
 </p>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+📧 **Email:**  
+sarthakmodi2@gmail.com
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+💼 **GitHub:**  
+https://github.com/sarthakmodii
 
 ---
 
 # ⚡ Fun Fact
 
-💡 My code =  
-40% ☕ Coffee  
-30% 🤖 AI  
-20% 💡 StackOverflow  
-10% 🧠 Genius Idea  
+> My code is powered by **Curiosity + Coffee ☕ + ChatGPT 🤖**
 
 ---
 
 # 👀 Visitor Count
 
-<p align="center">
+<p>
 <img src="https://count.getloli.com/@sarthakmodii?name=sarthakmodii&theme=green&darkmode=1">
 </p>
 
 ---
 
-⭐ **Always learning, always building intelligent systems.**
+⭐ **Always Learning | Always Building | Always Improving**
